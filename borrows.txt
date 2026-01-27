@@ -1,4 +1,0 @@
-# Danh sach phieu muon sach
-# Format: MaPhieu;EmailDocGia;MaSach;TenSach;TinhTrang;NgayMuon;HanTra;NgayTra;DaTra
-# DaTra: 0 = Chua tra, 1 = Da tra
-#============================================
